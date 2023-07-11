@@ -103,7 +103,7 @@
     Товар № 1 - iPhone 9
     Товар № 2 - iPhone X
     Товар № 3 - Samsung Universe 9
-  steps:        
+  steps:   
     - Перейти в корзину с добавленными товарами
     - Нажать "Удалить" Товар № 1
   expected-result: |
